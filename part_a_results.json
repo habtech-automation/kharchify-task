@@ -1,0 +1,104 @@
+{
+  "train_size": 97,
+  "test_size": 33,
+  "test_accuracy": 0.7273,
+  "cv_accuracy_mean": 0.7231,
+  "cv_accuracy_std": 0.0705,
+  "labels": [
+    "Beverage",
+    "Bread",
+    "Dessert",
+    "Main Course",
+    "Rice",
+    "Starter"
+  ],
+  "confusion_matrix": [
+    [
+      2,
+      0,
+      2,
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      3,
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      7,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      1,
+      0,
+      4,
+      0
+    ],
+    [
+      1,
+      0,
+      0,
+      1,
+      0,
+      4
+    ]
+  ],
+  "per_category_report": "              precision    recall  f1-score   support\n\n    Beverage       0.33      0.40      0.36         5\n       Bread       1.00      1.00      1.00         5\n     Dessert       0.40      0.40      0.40         5\n Main Course       0.78      1.00      0.88         7\n        Rice       1.00      0.80      0.89         5\n     Starter       1.00      0.67      0.80         6\n\n    accuracy                           0.73        33\n   macro avg       0.75      0.71      0.72        33\nweighted avg       0.76      0.73      0.73        33\n",
+  "unseen_predictions": [
+    {
+      "dish": "Paneer Kathi Roll",
+      "predicted": "Starter",
+      "confidence": 0.541,
+      "runner_up": "Main Course",
+      "runner_up_confidence": 0.263
+    },
+    {
+      "dish": "Mango Kulfi Falooda",
+      "predicted": "Dessert",
+      "confidence": 0.554,
+      "runner_up": "Beverage",
+      "runner_up_confidence": 0.238
+    },
+    {
+      "dish": "Tandoori Broccoli",
+      "predicted": "Starter",
+      "confidence": 0.648,
+      "runner_up": "Dessert",
+      "runner_up_confidence": 0.121
+    },
+    {
+      "dish": "Veg Hakka Noodles",
+      "predicted": "Starter",
+      "confidence": 0.452,
+      "runner_up": "Main Course",
+      "runner_up_confidence": 0.175
+    },
+    {
+      "dish": "Rose Lassi",
+      "predicted": "Beverage",
+      "confidence": 0.826,
+      "runner_up": "Dessert",
+      "runner_up_confidence": 0.044
+    }
+  ],
+  "n_dishes": 130
+}
