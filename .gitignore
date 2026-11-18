@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+category_model.joblib
