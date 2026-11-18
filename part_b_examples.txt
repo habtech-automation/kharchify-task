@@ -1,0 +1,32 @@
+Q: What were my top 3 dishes yesterday?
+A: Top 3 by quantity yesterday:
+1. Fish Fingers: 4 sold
+2. Dal Makhani: 4 sold
+3. Cold Coffee: 4 sold
+
+Q: How many Paneer Butter Masala did we sell today?
+A: You sold 5 x Paneer Butter Masala today.
+
+Q: Top 5 items by revenue this month
+A: Top 5 by revenue this month:
+1. Veg Biryani: INR 10,810
+2. Paneer Tikka: INR 10,780
+3. Butter Chicken: INR 10,240
+4. Chicken Biryani: INR 9,280
+5. Dal Makhani: INR 8,820
+
+Q: How many panner butter masla did we sell today?
+A: You sold 5 x Paneer Butter Masala today. (I read that as Paneer Butter Masala)
+
+Q: Total revenue last week
+A: Total revenue last week was INR 78,590 from 538 items sold.
+
+Q: Which items are not selling?
+A: Slowest 3 by quantity across all recorded sales:
+1. Gajar Halwa: 1 sold
+2. Chicken 65: 2 sold
+3. Hara Bhara Kebab: 2 sold
+
+Q: What is the weather in Mumbai?
+A: I could not turn that into a sales question. I can answer things like "top 3 dishes yesterday", "how many butter naan this week", "revenue from chicken biryani this month", or "total sales last week".
+
